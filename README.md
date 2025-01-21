@@ -1,4 +1,4 @@
-# Amigo Secreto - Lista Dinâmica
+# Amigo Secreto
 
 Este é um projeto simples para gerenciar uma lista de amigos e sortear um amigo secreto. Ele é feito em HTML, CSS e JavaScript, com funcionalidades dinâmicas como adicionar nomes à lista, exibir os amigos inseridos e realizar o sorteio.
 
